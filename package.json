@@ -17,8 +17,7 @@
   },
   "main": "./flatiron-passport.js",
   "dependencies": {
-    "passport": ">=0",
-    "connect": ">=0",
+    "passport": ">=0.1.x",
     "flatiron": ">=0",
     "union": ">=0.3.6"
   },
